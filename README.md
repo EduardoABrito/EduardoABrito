@@ -9,7 +9,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoABrito&layout=compact&hide_border=true&title_color=6c00fa&text_color=6c00fa&bg_color=0d1117" />
 </div>
 
-## :computer: Soft Skils
+## :computer: Hard Skils
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,js,cs,java,express,postman,docker,mysql,prisma,css,html,react,nextjs,materialui,azure&perline=8)](https://skillicons.dev)
 
