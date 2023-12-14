@@ -14,3 +14,5 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,js,cs,java,express,postman,docker,mysql,prisma,css,html,react,nextjs,materialui,azure&perline=8)](https://skillicons.dev)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c00fa&height=120&section=footer"/>
+## Profile View Count
+![Profile View Counter](https://profile-counter.glitch.me/EduardoABrito/count.svg)
