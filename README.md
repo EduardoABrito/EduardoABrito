@@ -1,20 +1,51 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c00fa&height-120&section-header"/>
-
-![](./media/header_.png)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6c00fa&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+is+Eduardo+Brito.;I+am+from+Brazil.;You're+Welcome!+:%29)](https://git.io/typing-svg)
+<!-- Galaxy Profile README Template
+     Customize this file with your own info, then rename it to README.md
+     in your GitHub profile repo (github.com/YOUR_USERNAME/YOUR_USERNAME).
+     The SVG paths below point to assets/generated/ which are auto-generated
+     by the GitHub Actions workflow or by running: python -m generator.main -->
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardoABrito&show_icons=true&count_private=true&hide_border=true&title_color=6c00fa&icon_color=6c00fa&text_color=c9d1d9&bg_color=0d1117" alt="Diogo Martins github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoABrito&layout=compact&hide_border=true&title_color=6c00fa&text_color=6c00fa&bg_color=0d1117" />
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
-## :computer: Hard Skils
+<br/>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,js,cs,java,express,postman,docker,mysql,prisma,css,html,react,nextjs,materialui,azure&perline=8)](https://skillicons.dev)
+<div align="center">
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
+</div>
 
+<br/>
 
-## Profile View Count
-![Profile View Counter](https://profile-counter.glitch.me/EduardoABrito/count.svg)
+<div align="center">
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c00fa&height=120&section=footer"/>
+<br/>
+
+<div align="center">
+  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+</div>
+
+<br/>
+
+<details>
+<summary><strong>More about me</strong></summary>
+
+<br/>
+
+Building tools that make developers' lives easier.
+Passionate about distributed systems, developer experience, and the open-source ecosystem.
+
+**Currently at** Stellar Labs — San Francisco, CA
+</details>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:nyx@stellarlabs.dev">
+    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nyxorion/">
+    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  </a>
+</div>
